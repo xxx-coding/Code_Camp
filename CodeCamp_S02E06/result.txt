@@ -1,0 +1,2 @@
+max value in column z: 0.000017629140
+average value in column z: 0.000012668054
